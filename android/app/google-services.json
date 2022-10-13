@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "663961497006",
+    "project_id": "bahrainunique-acd30",
+    "storage_bucket": "bahrainunique-acd30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663961497006:android:b9a54642641da615d36c3f",
+        "android_client_info": {
+          "package_name": "com.bahrain_unique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663961497006-8af5r92vm4fdd9rs5l2ho4b9euh1254h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-RjeR6Et6WJhNGwoFeMVi8MwOmMVvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663961497006-8af5r92vm4fdd9rs5l2ho4b9euh1254h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663961497006-ubkosn1ni2boqrdr1sa209fcqhhod89a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bahrainunique.bahrainunique"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
